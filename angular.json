@@ -103,5 +103,6 @@
   },
   "cli": {
     "analytics": "8ec1eb4d-e42c-4a25-9ae3-a8925ab65647"
-  }
+  },
+  "defaultProject": "Bampakos-chapter2"
 }
