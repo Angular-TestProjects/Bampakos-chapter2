@@ -7,8 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "scully": "npx scully -- --project my-blog",
-    "scully:serve": "npx scully serve -- --project my-blog"
+    "scully": "npx scully -- --project Bampakos-chapter2",
+    "scully:serve": "npx scully serve -- --project Bampakos-chapter2"
   },
   "private": true,
   "dependencies": {
